@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+interview.db
+uploads/
+*.db
+.env

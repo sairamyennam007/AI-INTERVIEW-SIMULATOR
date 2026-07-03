@@ -1,0 +1,6 @@
+AI-Powered Interview Simulator
+
+• Developed a Flask-based web application that uploads resumes and extracts skills automatically.
+• Generated technical interview questions based on detected skills.
+• Integrated Google Gemini API to evaluate candidate answers and provide AI-generated scores and feedback.
+• Implemented PDF processing using PyPDF2 and built a complete interview workflow with score calculation and result reporting.
